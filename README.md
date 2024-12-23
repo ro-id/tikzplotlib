@@ -1,3 +1,10 @@
+temporary fork to slove webcolors issue until the solve is merged in the original repository 
+
+install with:
+```shell
+pip install git+https://github.com/ro-id/tikzplotlib
+```
+
 <p align="center">
   <a href="https://github.com/nschloe/tikzplotlib"><img alt="tikzplotlib" src="https://nschloe.github.io/tikzplotlib/logo-tikzplotlib.svg" width="60%"></a>
   <p align="center">The artist formerly known as <em>matplotlib2tikz.</em></p>
